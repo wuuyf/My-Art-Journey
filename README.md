@@ -1,8 +1,8 @@
-# 🎨 My Art Journey
+# My Art Journey
 
 ---
 
-## 🎍 Nengajo Collection
+## Nengajo Collection
 Since 2020, I have been drawing a "Nengajo" (New Year's card) every year. This is a tradition I cherish to mark the beginning of each year.
 
 | Year | Zodiac (干支) | Illustration |
@@ -16,7 +16,7 @@ Since 2020, I have been drawing a "Nengajo" (New Year's card) every year. This i
 
 <br>
 
-### 🖌️ Tools
+### Tools
 - Procreate
 - Clip Studio Paint
 - Hand-drawn
