@@ -18,5 +18,4 @@ Since 2020, I have been drawing a "Nengajo" (New Year's card) every year. This i
 
 ### Tools
 - Procreate
-- Clip Studio Paint
 - Hand-drawn
